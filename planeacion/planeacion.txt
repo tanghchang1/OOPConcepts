@@ -1,0 +1,223 @@
+﻿Proyecto Instalaciones Deportivas Los nevados.
+
+
+
+
+
+
+
+
+
+
+
+
+Presentado por:
+Sergio Arturo Tang Chang Orozco
+Código: 0000024224.
+
+
+
+
+
+
+
+
+
+Presentado a:
+Cesar Franco
+Programación 2.
+Lunes 7:00 am
+Viernes 7:00 am
+
+
+
+
+
+
+
+ 
+
+
+Universidad de Caldas.
+Facultad de Ingenieria.
+Departamento de Sistemas y computación.
+2023.
+
+Diagrama del proyecto:
+
+
+
+
+
+
+Objetivos del Proyecto para el Centro Deportivo "Los Nevados":
+Objetivo General:
+
+Desarrollar una aplicación web de gestión de instalaciones, socios y alquileres para "Los Nevados".
+Objetivos Específicos:
+
+Diseñar una interfaz de fácil navegación.
+Crear un módulo para registrar y consultar instalaciones deportivas.
+Implementar un módulo para registrar y consultar socios.
+Desarrollar un módulo para gestionar alquileres, verificar disponibilidad de instalaciones, evitar cruces de horarios y determinar el valor del alquiler.
+Considerar la incorporación de funcionalidades adicionales según las necesidades y sugerencias del cliente.
+Objetivos Técnicos:
+
+Emplear un diseño orientado a objetos.
+Elaborar un diagrama de clases que refleje la estructura del sistema.
+Asegurar la compatibilidad web y la calidad del software mediante validaciones.
+Objetivos de Gestión:
+
+Entregar documentación completa en el plazo establecido.
+Mantener comunicación con el cliente y adaptar el desarrollo según retroalimentación.
+Seguir buenas prácticas para garantizar una entrega oportuna y de calidad.
+
+Requisitos para el Centro Deportivo "Los Nevados":
+Requisitos Funcionales:
+Gestión de Instalaciones:
+Registrar y consultar instalaciones con sus características y especificaciones.
+Gestión de Socios:
+Registrar y consultar socios con su información básica.
+Gestión de Alquileres:
+Permitir alquileres por parte de socios, verificar disponibilidad de instalaciones, calcular costos y consultar alquileres de un socio.
+Requisitos No Funcionales:
+Usabilidad:
+Interfaz intuitiva y fácil de usar.
+Rendimiento:
+Respuestas rápidas a acciones de usuario.
+Seguridad:
+Protección de datos y acceso solo a personal autorizado.
+Compatibilidad:
+Funcionalidad en principales navegadores web.
+Escalabilidad:
+Capacidad de adaptarse a un aumento de usuarios y datos.
+Mantenibilidad:
+Código estructurado y documentado.
+Estos requisitos brindan una visión comprensible y concisa de las principales funcionalidades y características que debe tener la aplicación para el Centro Deportivo "Los Nevados".
+
+
+
+Alcance  del Proyecto para "Los Nevados":
+Funcionalidades:
+Instalaciones: Creación, edición y consulta de instalaciones deportivas categorizadas por tipo.
+Socios: Registro y consulta de información básica de socios.
+Alquileres: Registro con verificación de disponibilidad, cálculo automático de costo y consulta de alquileres por socio.
+Características Técnicas:
+Aplicación web responsiva.
+Mecanismos de seguridad para la protección de datos.
+Base de datos para gestionar la información.
+Entregables:
+Aplicación web testeada.
+Documentación técnica y del usuario.
+Código fuente con documentación.
+Restricciones:
+Desarrollo solo en idioma español.
+Enfoque exclusivo en instalaciones, socios y alquileres.
+Exclusiones:
+Sin sistemas de pago en línea o integraciones con plataformas financieras.
+No se integrará con otros sistemas del centro deportivo.
+Este alcance resumido ofrece una visión general y concisa de lo que se cubrirá en el proyecto de desarrollo para el Centro Deportivo "Los Nevados".
+
+
+
+	Recursos para el Proyecto del Centro Deportivo "Los Nevados":
+1. Recursos Humanos:
+Gerente de Proyecto para supervisión y coordinación.
+Equipo de Desarrolladores para construir la aplicación.
+Diseñador UX/UI para la interfaz de la aplicación.
+Analista de Sistemas para traducción de necesidades en especificaciones.
+Tester o Equipo de QA para pruebas.
+Administrador de Base de Datos para gestión y optimización.
+2. Recursos Tecnológicos:
+Servidor para alojamiento.
+Licencias para softwares propietarios.
+Herramientas específicas para desarrollo y pruebas.
+Sistema de Control de Versiones como Git.
+3. Recursos Materiales:
+Equipos de Computación para desarrollo.
+Espacio físico de trabajo.
+Acceso a Internet de alta velocidad.
+4. Recursos Financieros:
+Presupuesto para salarios y licencias.
+Fondo de contingencia para imprevistos.
+5. Recursos de Comunicación:
+Plataformas de comunicación (ej. Slack, Zoom).
+Herramientas de gestión de proyecto (ej. Jira, Trello).
+Este resumen proporciona una visión general de los recursos esenciales para el desarrollo y gestión del proyecto en el Centro Deportivo "Los Nevados".
+
+
+
+Cronograma y Presupuesto Estimado:
+Cronograma:
+Análisis y Planificación: 3 semanas
+Diseño UX/UI: 2 semanas
+Desarrollo: 10 semanas
+Pruebas y QA: 3 semanas
+Lanzamiento y Formación: 2 semanas
+Mantenimiento y Soporte: Continuo
+Duración Total: Aproximadamente 5 meses
+
+Presupuesto:
+Recursos Humanos: $104,000
+Recursos Tecnológicos: $4,500
+Recursos Materiales: $11,500
+Fondo de Contingencia: $11,900
+Costo Total Estimado: $141,900
+
+Estas cifras son estimaciones basadas en suposiciones genéricas y pueden variar según las especificidades y condiciones del proyecto real. Se sugiere un análisis detallado antes de tomar decisiones finales.
+
+
+Riesgos del Proyecto:
+Cambios de Requerimientos: Posibles modificaciones en las demandas del cliente tras comenzar el desarrollo.
+Tecnología y Herramientas: Problemas o incompatibilidades con las herramientas seleccionadas y falta de experiencia del equipo con ellas.
+Riesgos de Personal: Rotación de personal clave o falta de habilidades necesarias en el equipo.
+Problemas con Infraestructura: Fallos en servidores, base de datos o conexión a internet.
+Problemas de Integración: Dificultades al unir diferentes módulos de la aplicación.
+Riesgos de Seguridad: Vulnerabilidades que podrían comprometer la información.
+Rendimiento Inferior: La aplicación no cumple con las expectativas de rendimiento.
+Riesgos Financieros: Costos no previstos que superen el presupuesto o falta de financiamiento.
+Limitaciones de Tiempo: Retrasos en el cronograma debido a imprevistos.
+Problemas de Calidad: Defectos no detectados que afectan a los usuarios.
+Riesgos Externos: Cambios en regulaciones o factores externos imprevistos.
+Desafíos de Comunicación: Falta de comunicación clara entre stakeholders y el equipo de desarrollo.
+Es fundamental tener estrategias de mitigación para cada riesgo identificado, garantizando una respuesta efectiva en caso de que se materialicen.
+
+
+COMUNICADO OFICIAL: Proyecto de Software para el Centro Deportivo 'Los Nevados'
+
+Fecha: [Fecha de Emisión]
+
+Estimado equipo de trabajo,
+
+Me complace informarles que hemos sido seleccionados para desarrollar la aplicación de gestión para el Centro Deportivo "Los Nevados". Este es un proyecto ambicioso y crucial que, sin duda, destacará nuestra capacidad y compromiso para entregar soluciones de alta calidad.
+
+1. Objetivos del Proyecto:
+
+Desarrollar una aplicación web para gestionar las instalaciones deportivas y socios del Centro Deportivo.
+Facilitar el registro y consulta de instalaciones y socios.
+Permitir a los socios alquilar instalaciones y consultar sus alquileres.
+Garantizar la no superposición de horarios de alquiler y calcular el valor del alquiler según las tarifas establecidas.
+2. Alcance del Proyecto:
+La aplicación debe ser capaz de gestionar instalaciones deportivas (tenis, piscinas, canchas multipropósito), socios (con sus respectivos datos), y alquileres de instalaciones por parte de los socios.
+
+3. Recursos Asignados:
+Hemos designado un equipo interdisciplinario compuesto por un Gerente de Proyecto, Desarrolladores, Diseñador UX/UI, Analista de Sistemas, Tester o Equipo de QA y un Administrador de Base de Datos. Asimismo, contaremos con la infraestructura tecnológica y material necesaria para llevar a cabo el proyecto.
+
+4. Cronograma Estimado:
+El proyecto tiene una duración estimada de 5 meses, divididos en fases de Análisis, Diseño, Desarrollo, Pruebas y Lanzamiento.
+
+5. Presupuesto Estimado:
+Se ha asignado un presupuesto aproximado de $141,900, que abarca recursos humanos, tecnológicos y materiales, así como un fondo de contingencia.
+
+6. Riesgos Identificados:
+Si bien estamos confiados en nuestra capacidad, es esencial estar al tanto de los posibles riesgos asociados al proyecto, como cambios de requerimientos, problemas tecnológicos, riesgos de personal, entre otros. Se establecerá un plan de gestión de riesgos para abordar proactivamente estos desafíos.
+
+
+
+Conclusión:
+
+Espero que todos aborden este proyecto con el mismo entusiasmo y dedicación que siempre han demostrado. Tengan la seguridad de que, trabajando juntos y manteniendo una comunicación clara y abierta, conseguiremos entregar una solución que cumpla y exceda las expectativas del cliente.
+
+
+
+
